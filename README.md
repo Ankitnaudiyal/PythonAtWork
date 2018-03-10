@@ -1,4 +1,4 @@
-pyAtWork has been created to share knowledge about using Python programming language to solve common problems at work. The two main ideas for initiating this project are:
+PythonAtWork (py@Work) has been created to share knowledge about using Python programming language to solve common problems at work. The two main ideas for initiating this project are:
 
 ## 1. Learning to program with Python
 Python is a high level programming language which is widely used and liked by a large community. Some of the main reasons behinid its popularity and success are its easy to read and write sytax. Python is said to be a very developer friendly language and hence becomes a good tool for the beginners to learn how to code. Beginners do not need to worry a lot about the unnecessary details of the language and can concentrate on learning to code. 
